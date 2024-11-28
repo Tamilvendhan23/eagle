@@ -1,0 +1,17 @@
+<svg width="40" height="40" viewBox="15 0 50 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFDB6E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFBC5E;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFDB6E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFBC5E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Cloud Shape -->
+  <path d="M30 40C22.832 40 17 34.168 17 27C17 22.337 20.052 18.373 24.206 17.114C25.494 11.751 30.275 8 36 8C41.163 8 45.4 11.077 47.038 15.622C47.348 15.594 47.665 15.577 47.986 15.577C54.609 15.577 60 20.967 60 27.589C60 34.211 54.609 39.601 47.986 39.601H30Z" fill="url(#cloudGradient)" />
+  
+  <!-- AWS Text -->
+  <text x="20" y="55" fill="url(#textGradient)" font-size="18" font-family="Arial" font-weight="bold">AWS</text>
+</svg>
